@@ -1,0 +1,11 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\bin\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\bin\Debug\DTO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.pdb
+C:\Users\admin\Desktop\HotelManager\DTO\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\HotelManager\DTO\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\HotelManager\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\HotelManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HotelManager\DTO\obj\Debug\DTO.dll
+C:\Users\admin\Desktop\HotelManager\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,19 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DAO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DAO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DTO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.pdb
+C:\Users\admin\Desktop\HotelManager\DAO\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\HotelManager\DAO\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\HotelManager\DAO\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\HotelManager\DAO\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\HotelManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\HotelManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HotelManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\admin\Desktop\HotelManager\DAO\obj\Debug\DAO.dll
+C:\Users\admin\Desktop\HotelManager\DAO\obj\Debug\DAO.pdb
+C:\Users\admin\Desktop\HotelManager\DAO\bin\Debug\DAO.dll.config

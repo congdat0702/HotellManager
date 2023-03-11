@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a81e9e23-cdf5-4bbe-b58c-19091deaa9be": {
+      "ProjectGuid": "a81e9e23-cdf5-4bbe-b58c-19091deaa9be",
+      "DisplayName": "HotelManager",
+      "ColorIndex": 0
+    },
+    "2a4e71b5-d8c9-411d-835f-86bacd800445": {
+      "ProjectGuid": "2a4e71b5-d8c9-411d-835f-86bacd800445",
+      "DisplayName": "DAO",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

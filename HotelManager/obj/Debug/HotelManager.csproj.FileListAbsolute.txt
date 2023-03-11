@@ -1,0 +1,99 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAbout.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAccess.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddService.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fBill.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fManagement.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fParameter.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fProfile.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fReport.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fService.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fStaff.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fUpdateCustomerInfo.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\Bunifu_UI_v1.52.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\DAO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\FlashControlV71.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\MetroFramework.Design.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\MetroFramework.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\MetroFramework.Fonts.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\DAO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\bin\Debug\DTO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\FlashControlV71.dll
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAbout.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAccess.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAddService.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fBill.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fManagement.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fParameter.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fProfile.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fReport.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fService.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fStaff.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fUpdateCustomerInfo.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\admin\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\admin\Desktop\HotelManager\HotelManager\bin\Debug\DAO.dll.config
